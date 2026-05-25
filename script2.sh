@@ -1,0 +1,8 @@
+#!/bin/bash
+date +%T
+sleep 1
+date +%T
+sleep 2
+date +%T
+sleep 3
+date +%T
